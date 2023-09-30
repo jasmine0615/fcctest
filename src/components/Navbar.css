@@ -1,0 +1,15 @@
+.img-fcc{
+    margin-left: 600px;
+}
+.btn-menu1 {
+    width: 100px;
+    height: 35px;
+    margin-right: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-left: 170px;
+}
